@@ -1,0 +1,30 @@
+/* 
+Theme Name: EPortfolio
+Theme URI : WHL
+Authore Name : tanvir
+Author URI : https://www.tanvir-dev.com
+Description : Our First Hyferminimal Theme 
+Version : 1.0.0
+Tag : blog, education
+Text Domain : ePortfolio 
+
+*/
+
+* {
+    margin: 0;
+    padding: 0;
+}
+img{
+    width: 100%;
+    height: auto;
+}
+.head{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.pagination-section {
+    padding: 1.5rem;
+}
